@@ -28,8 +28,9 @@ class E01_Euro2Pts {
         double pesetas = euros * CAMBIO;
  
         //Mostrar el resultado
-        
+        System.out.println("El canvi es de "+CANBIO);
         System.out.println(euros+"€ en pesetas es: "+pesetas);
+        
          
        
     }
